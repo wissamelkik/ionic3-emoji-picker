@@ -1,5 +1,13 @@
 [![npm version](https://badge.fury.io/js/%40ionic-tools%2Femoji-picker.svg)](https://badge.fury.io/js/%40ionic-tools%2Femoji-picker)
 
+# Fork notice
+
+This project was forked from [ionic3-emoji-picker](https://github.com/danielehrhardt/ionic3-emoji-picker) project created by [danielehrhardt](https://github.com/danielehrhardt)
+
+I modified the list of icons to include all of the icons found in the chat messengers nowadays.
+I added new categories.
+I also fixed the order of the icons to match one of the most popular chat messengers.
+
 # Emoji picker for Ionic 3
 
 This project was forked from the [angular2-emoji-picker](https://github.com/lsharir/angular2-emoji-picker) project created by [lsharir](https://github.com/lsharir)
