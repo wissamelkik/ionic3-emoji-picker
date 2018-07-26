@@ -5,8 +5,10 @@
 This project was forked from [ionic3-emoji-picker](https://github.com/danielehrhardt/ionic3-emoji-picker) project created by [danielehrhardt](https://github.com/danielehrhardt)
 
 I modified the list of icons to include all of the icons found in the chat messengers nowadays.
+
 I added new categories.
-I also fixed the order of the icons to match one of the most popular chat messengers.
+
+I also fixed the order of the icons to match the order of icons found in one of the most popular chat messengers.
 
 # Emoji picker for Ionic 3
 
